@@ -92,13 +92,13 @@ The project uses the Olist E-commerce dataset, which contains multiple related t
 The dashboard is divided into multiple pages:
 
 * **Overview**
-![Overview](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947031625-8zmmpjxo3.png)
+![Overview](PNG/Olist_(Overview).png)
   
 * **Customer Insights**
-![Customer Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947019347-5vxkp4fou.png)
+![Customer Insights](PNG/Olist_(Customer).png)
   
 * **Seller Insights**
-![Seller Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947040494-te25d5ahk.png)
+![Seller Insights](PNG/Olist_(Seller).png)
   
 * **Drillthrough**
-![Drillthrough](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947026250-o76oyu49t.png)
+![Drillthrough](PNG/Olist_(Drillthrough).png)
