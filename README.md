@@ -141,3 +141,21 @@ The Power BI report is organized into multiple pages:
 * Certain regions show high sales volume along with higher delay rates
 * Installment-based payments are commonly used for higher-value orders
 * Revenue trends vary across months, indicating seasonal patterns
+
+---
+
+## Dashboard
+
+The dashboard is divided into multiple pages:
+
+* **Overview**
+![Overview](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947031625-8zmmpjxo3.png)
+  
+* **Customer Insights**
+![Customer Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947019347-5vxkp4fou.png)
+  
+* **Seller Insights**
+![Seller Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947040494-te25d5ahk.png)
+  
+* **Drillthrough**
+![Drillthrough](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774947026250-o76oyu49t.png)
